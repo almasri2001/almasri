@@ -1,6 +1,6 @@
 My Industrial Engineering Portfolio
 
-**Industrial Engineering | Process Optimization | Simulation & Analytics**
+**Industrial Engineering | Process Optimization | Simulation & Analytics | Manufacturing Design**
 
 ---
 
